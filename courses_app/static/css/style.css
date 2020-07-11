@@ -1,0 +1,58 @@
+#wrapper{
+    width: 600px;
+    margin: 0px auto;
+}
+
+.field{
+    display: inline;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+th, td{
+    padding: 10px;
+}
+
+p, a, input{
+    font-size: 18px;
+}
+
+.error{
+    color: purple;
+}
+
+#add{
+    width: 50px;
+}
+
+input, textarea{
+    margin: 10px;
+    border: 1px solid black;
+    width: 300px;
+    font-size: 15px;
+}
+
+label{
+    margin: 10px;
+    font-size: 20px;
+}
+
+#no{
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    padding: 0px 10px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td a{
+    color: black;
+}
